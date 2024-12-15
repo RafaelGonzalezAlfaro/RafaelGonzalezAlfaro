@@ -9,6 +9,8 @@ Soy [Ingeniero Mecatrónica] con [7] años de experiencia en [Manufactura y Dise
 * 🛢️  SQL
 * 🛠️  Git, VSCode
 
+[![My Skills](https://skillicons.dev/icons?i=java,discord,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+
 ## Experiencia
 
 **[TIMSA]:** [Ingeniero en Manufactura y diseño] ([Marzo 2018 - Actual]) - [
