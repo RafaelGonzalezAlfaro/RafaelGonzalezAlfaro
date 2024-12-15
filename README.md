@@ -9,7 +9,7 @@ Soy [Ingeniero Mecatrónica] con [7] años de experiencia en [Manufactura y Dise
 * 🛢️  SQL
 * 🛠️  Git, VSCode
 
-[![My Skills](https://skillicons.dev/icons?i=java,discord,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,py,powershell&theme=dark)](https://skillicons.dev)
 
 ## Experiencia
 
